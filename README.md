@@ -1,0 +1,2 @@
+# MongoDB $inc operator error with string value
+This repository demonstrates an uncommon error when using the `$inc` operator in MongoDB. The issue arises from using a string value instead of a number for the increment.
